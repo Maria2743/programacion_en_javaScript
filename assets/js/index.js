@@ -1,0 +1,1 @@
+import { leon, lobo, oso, serpiente, aguila } from `./tiposDeAnimales.js`
