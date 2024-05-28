@@ -1,4 +1,4 @@
-import animal from `./animal.js`
+import animal from './animal.js'
 
 class leon extends animal {
     constructor(nombre, edad, img, comentarios, sonido) {
